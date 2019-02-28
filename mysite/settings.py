@@ -25,7 +25,9 @@ SECRET_KEY = '-ysod^poxv78@i8@q2u*8$cw8)+$+ijz4w^3zh$gm-53+^(1af'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+'bagirovaa.pythonanywhere.com',
+]
 
 
 # Application definition
